@@ -4,6 +4,7 @@ My name is Anver, nice to e-meet you! 🤝
 
 - ✍️ I’m currently writing technical articles for my [personal website](https://www.anverbogatov.com)
 - ☁️ I’m currently working as a cloud software engineer
+- 🇬🇧 I speak fluent English and ideal Russian 🇷🇺
 
 ---
 ![stats](https://github-readme-stats.vercel.app/api?username=anverbogatov&count_private=true&hide=contribs&show_icons=true&theme=vue)
