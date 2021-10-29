@@ -2,7 +2,7 @@
 
 My name is Anver, nice to e-meet you! 🤝
 
-- ✍️ I’m currently writing technical articles on things related to software architecture, modern approaches and software development for my [personal website](https://www.anverbogatov.com)
+- ✍️ I’m currently writing technical articles for my [personal website](https://www.anverbogatov.com)
 - ☁️ I’m currently working as a cloud software developer
 
 ---
