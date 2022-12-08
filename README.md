@@ -2,8 +2,8 @@
 
 My name is Anver, nice to e-meet you! 🤝
 
-- ✍️ I’m currently writing technical articles for my [personal website](anverbogatov.ru)
-- 🎥 I'm currently shooting videos for my [side project](https://www.fullstackguy.ru)
+- ✍️ I’m currently writing technical articles for my [personal website](http://anverbogatov.ru)
+- 🎥 I'm currently shooting videos for my [side project](http://fullstackguy.anverbogatov.ru)
 - ☁️ I’m currently working as a cloud software engineer
 - 🇬🇧 I speak fluent English and ideal Russian 🇷🇺
 
