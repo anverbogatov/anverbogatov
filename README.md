@@ -11,6 +11,8 @@ My name is Anver, nice to e-meet you! 🤝
 [![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bogatov.anver@gmail.com)
 [![vk](https://img.shields.io/badge/Vk-0077FF?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/anverbogatov)
 
+**My CV**: [Anver Bogatov.pdf](https://docs.google.com/document/d/1bHcUG6-GWgjQgCyLfAjrbkWCqj-drps1PyTSIZNojBk/edit?usp=sharing)
+
 ---
 ![stats](https://github-readme-stats.vercel.app/api?username=anverbogatov&count_private=true&hide=contribs&show_icons=true&theme=vue)
 <!--
