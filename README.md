@@ -43,6 +43,7 @@ My name is Anver, nice to e-meet you! 🤝
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anver-bogatov/)
 [![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bogatov.anver@gmail.com)
 [![vk](https://img.shields.io/badge/Vk-0077FF?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/anverbogatov)
+[![telegram](https://img.shields.io/badge/telegram-F0F0FF?style=for-the-badge&logo=Telegram)](https://t.me/thefullstackguy)
 
 
 ---
