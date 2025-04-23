@@ -4,7 +4,7 @@ My name is Anver, nice to e-meet you! 🤝
 
 - ✍️ I’m currently writing technical articles for my [personal website](https://anverbogatov.ru)
 - 🎥 I'm currently shooting videos for my [side project](https://fullstackguy.ru)
-- ☁️ I’m currently working as a cloud software engineer
+- ☁️ I’m currently working as a backend chapter leader
 - 🇬🇧 I speak fluent English and ideal Russian 🇷🇺
 
 **My CV**: [Anver Bogatov.pdf](https://docs.google.com/document/d/1bHcUG6-GWgjQgCyLfAjrbkWCqj-drps1PyTSIZNojBk/edit?usp=sharing)
